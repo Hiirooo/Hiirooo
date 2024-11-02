@@ -5,7 +5,7 @@
 
 <!-- h1 Profile
 <h1 align="center">
-  <b>Hello Programmers!<b> <a href="https://web.facebook.com/profile.php?id=100004324901183" target="blank">Hiro</a> Was Here
+  <b>Hello Programmers!<b> <a href="https://web.facebook.com/profile.php?id=xxxxxxxxxxxx" target="blank">Hiro</a> Was Here
 </h1> -->
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Hiirooo&show_icons=true&theme=chartreuse-dark&locale=id">
@@ -45,5 +45,5 @@
   <a href="https://www.facebook.com"><img width="50" height="50" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"></a>
   <a href="https://www.messenger.com/"><img width="50" height="50" src="https://camo.githubusercontent.com/0b9b5efe8bd5edcdaec78496cf9ddaf6d98cd2b2574e23d5deca0b5e7eae583a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d657373656e6765722e737667"></a>
   <a href="https://www.instagram.com/"><img width="50" height="50" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"></a>
-  <a href="https://api.whatsapp.com/send/?phone=628123456879&text=Hello+Bro!"><img width="50" height="50" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667"></a>
+  <a href="https://api.whatsapp.com/send/?phone=628xxxxxxxx&text=Hello+Bro!"><img width="50" height="50" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667"></a>
 </p>

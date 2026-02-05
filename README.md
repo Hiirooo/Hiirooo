@@ -1,89 +1,39 @@
-# 🖥️ Retro Portfolio - Muhammad Rasyid Abdulah
-
-> "Transforming caffeine into robust code and scalable solutions;"
-
-![Retro Portfolio Preview](https://via.placeholder.com/1200x600?text=Retro+Portfolio+Preview)
-*(Replace this link with a real screenshot of your website)*
-
-## 📖 About
-A unique, retro-styled developer portfolio inspired by the classic **Macintosh Aesthetic**. Built with modern technologies but designed to take you back to the monochrome era.
-
-This project showcases my journey as a **Full Stack Web Developer**, featuring:
-- **Interactive Windows**: Draggable and visually distinct "Mac" windows.
-- **Global Localization**: Seamless switching between **Indonesian**, **English**, and **Japanese**.
-- **System Info**: Creative "About Me" section styled as system specifications.
-- **Retro Mail Client**: A functional contact form design.
-
-## 🚀 Use the Site
-Visit the live demo or run it locally to experience the retro interactions.
-
-## 🛠️ Tech Stack
-This project is built using the latest web technologies:
-
-- **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
-- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
-- **Animation**: [Framer Motion](https://www.framer.com/motion/)
-- **Icons**: [Lucide React](https://lucide.dev/)
-- **Fonts**: `Press Start 2P` (Retro) & `Inter` (Modern)
-- **State Management**: React Context API (for Localization)
-
-## ✨ Features
-- 🌐 **Multi-Language Support**: Complete translations for ID, EN, JP using a custom lightweight dictionary.
-- 🎨 **Retro Design System**: Custom thick borders, heavy shadows, and monochrome palette defined in Tailwind v4 variables.
-- 📱 **Fully Responsive**: Optimized for both Desktop (Grid Layout) and Mobile (Stacked Layout).
-- 🔗 **Real Project Integration**: Direct links to live projects (Laravel, Next.js, aaPanel).
-
-## 📦 Getting Started
-
-### Prerequisites
-- Node.js 18+ 
-- npm / yarn / pnpm
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Hiirooo/retro-portfolio.git
-   cd retro-portfolio
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## 📂 Project Structure
-
-```bash
-├── app/
-│   ├── layout.tsx      # Root layout with LanguageProvider
-│   └── page.tsx        # Main page with Hero, Projects, About, Contact
-├── components/
-│   ├── ui/
-│   │   ├── MacWindow.tsx    # Reusable Retro Window
-│   │   ├── HeroSection.tsx  # Intro Section
-│   │   ├── AboutSection.tsx # System Info Section
-│   │   └── ContactSection.tsx # Mail Client Section
-├── content/
-│   └── translations.ts # Dictionary for ID/EN/JP
-├── context/
-│   └── LanguageContext.tsx # Global State
-└── public/             # Static Assets
-```
-
-## 📬 Contact
-Interested in collaborating? Reach out to me!
-
-- **GitHub**: [Hiirooo](https://github.com/Hiirooo)
-- **Email**: official.rasyidabdulah@gmail.com
-- **WhatsApp**: [+62 831-7878-1472](https://wa.me/6283178781472)
-
+### Hi there, I'm Rasyid Abdulah! 👋
+> "Transforming caffeine into robust code and scalable solutions;" ☕ -> 💻
+<div align="center">
+![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Muhammad%20Rasyid%20Abdulah&fontSize=50&fontColor=ffffff&fontAlign=50)
+<a href="https://github.com/Hiirooo">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:official.rasyidabdulah@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/6283178781472">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</div>
 ---
-*© 2026 Muhammad Rasyid Abdulah. Built with Next.js & Brutalism.*
+### 👨‍💻 **System Information** (About Me)
+I am a **Full Stack Web Developer** with a unique background in IT Administration. I love building efficient systems with a touch of retro aesthetics.
+- 🔭 **I’m currently working on**: Government Systems & School Management Apps.
+- 🌱 **I’m currently learning**: Advanced Next.js Patterns & System Architecture.
+- 🎓 **Education**: Final Year Student (Software Engineering).
+- 💼 **Experience**: 6+ Years as IT/Admin Staff in Education Sector.
+---
+### 🚀 **Tech Stack & Arsenal**
+<div align="center">
+| Backend & Server | Frontend & UI | Tools & Others |
+| :---: | :---: | :---: |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![aaPanel](https://img.shields.io/badge/aaPanel-20232A?style=for-the-badge&logo=linux&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+</div>
+---
+### 📊 **Github Stats**
+<div align="center">
+![Rasyid's Stats](https://github-readme-stats.vercel.app/api?username=Hiirooo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiirooo&layout=compact&theme=radical)
+</div>
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Hiirooo&style=flat-square&color=blue" alt="Profile Views" /> 
+</div>

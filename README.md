@@ -1,49 +1,89 @@
-<!--  banner
-<p align="center">
-  <img width="1000" height="400" src="">
-</p> -->
+# 🖥️ Retro Portfolio - Muhammad Rasyid Abdulah
 
-<!-- h1 Profile
-<h1 align="center">
-  <b>Hello Programmers!<b> <a href="https://web.facebook.com/profile.php?id=xxxxxxxxxxxx" target="blank">Hiro</a> Was Here
-</h1> -->
-<p align="center">
-  <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Hiirooo&show_icons=true&theme=chartreuse-dark&locale=id">
-</p>
-<p align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiirooo&layout=compact&theme=chartreuse-dark">
-</p>
+> "Transforming caffeine into robust code and scalable solutions;"
 
-<!-- repositori
-<p align="center">
-<a href="https://github.com/Hiirooo/lostsaga-autocreator"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Hiirooo&repo=lostsaga-autocreator&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/elite"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=elite&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/premium"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=premium&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/dmbf"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=dmbf&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/sbf"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=sbf&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/fbcrack"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fbcrack&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/dump"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=dump&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/fl"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fl&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/fac"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=fac&theme=chartreuse-dark"></a>
-<a href="https://github.com/Dapunta/iploc"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=iploc&theme=chartreuse-dark"></a>
--->
+![Retro Portfolio Preview](https://via.placeholder.com/1200x600?text=Retro+Portfolio+Preview)
+*(Replace this link with a real screenshot of your website)*
 
-</p>
-<p align="center">
-  <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=Hiirooo&theme=monokai&row=1&column=5&no-frame=true'
-</p>
+## 📖 About
+A unique, retro-styled developer portfolio inspired by the classic **Macintosh Aesthetic**. Built with modern technologies but designed to take you back to the monochrome era.
 
-<!--
-<h3 align="center">
-  <a href="https://saweria.co/Hiirooo" target="blank">Support Me!</a>
-</h3>
--->
-  
-<p align="center">
-  <a href="https://www.github.com/Hiirooo"><img width="50" height="50" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></a>
-  <a href="https://www.youtube.com/"><img width="50" height="50" src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667"></a>
-  <a href="https://www.facebook.com"><img width="50" height="50" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"></a>
-  <a href="https://www.messenger.com/"><img width="50" height="50" src="https://camo.githubusercontent.com/0b9b5efe8bd5edcdaec78496cf9ddaf6d98cd2b2574e23d5deca0b5e7eae583a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d657373656e6765722e737667"></a>
-  <a href="https://www.instagram.com/"><img width="50" height="50" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"></a>
-  <a href="https://api.whatsapp.com/send/?phone=628xxxxxxxx&text=Hello+Bro!"><img width="50" height="50" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667"></a>
-</p>
+This project showcases my journey as a **Full Stack Web Developer**, featuring:
+- **Interactive Windows**: Draggable and visually distinct "Mac" windows.
+- **Global Localization**: Seamless switching between **Indonesian**, **English**, and **Japanese**.
+- **System Info**: Creative "About Me" section styled as system specifications.
+- **Retro Mail Client**: A functional contact form design.
+
+## 🚀 Use the Site
+Visit the live demo or run it locally to experience the retro interactions.
+
+## 🛠️ Tech Stack
+This project is built using the latest web technologies:
+
+- **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
+- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Animation**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Fonts**: `Press Start 2P` (Retro) & `Inter` (Modern)
+- **State Management**: React Context API (for Localization)
+
+## ✨ Features
+- 🌐 **Multi-Language Support**: Complete translations for ID, EN, JP using a custom lightweight dictionary.
+- 🎨 **Retro Design System**: Custom thick borders, heavy shadows, and monochrome palette defined in Tailwind v4 variables.
+- 📱 **Fully Responsive**: Optimized for both Desktop (Grid Layout) and Mobile (Stacked Layout).
+- 🔗 **Real Project Integration**: Direct links to live projects (Laravel, Next.js, aaPanel).
+
+## 📦 Getting Started
+
+### Prerequisites
+- Node.js 18+ 
+- npm / yarn / pnpm
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Hiirooo/retro-portfolio.git
+   cd retro-portfolio
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## 📂 Project Structure
+
+```bash
+├── app/
+│   ├── layout.tsx      # Root layout with LanguageProvider
+│   └── page.tsx        # Main page with Hero, Projects, About, Contact
+├── components/
+│   ├── ui/
+│   │   ├── MacWindow.tsx    # Reusable Retro Window
+│   │   ├── HeroSection.tsx  # Intro Section
+│   │   ├── AboutSection.tsx # System Info Section
+│   │   └── ContactSection.tsx # Mail Client Section
+├── content/
+│   └── translations.ts # Dictionary for ID/EN/JP
+├── context/
+│   └── LanguageContext.tsx # Global State
+└── public/             # Static Assets
+```
+
+## 📬 Contact
+Interested in collaborating? Reach out to me!
+
+- **GitHub**: [Hiirooo](https://github.com/Hiirooo)
+- **Email**: official.rasyidabdulah@gmail.com
+- **WhatsApp**: [+62 831-7878-1472](https://wa.me/6283178781472)
+
+---
+*© 2026 Muhammad Rasyid Abdulah. Built with Next.js & Brutalism.*

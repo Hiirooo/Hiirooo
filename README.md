@@ -69,12 +69,17 @@ open_to:    [collaborations, freelance, internships]
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hiirooo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Rasyid's GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiirooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hiirooo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Rasyid's GitHub Stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hiirooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Hiirooo&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" alt="GitHub Streak" />
+
+<br />
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hiirooo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 

@@ -1,67 +1,41 @@
-### Hi there, I'm Rasyid Abdulah! 👋
+# Halo, saya Rasyid.
 
-> "Transforming caffeine into robust code and scalable solutions;" ☕ -> 💻
+**Full-stack developer dan IT administrator dari Sumatera Selatan.**
 
-<div align="center">
+Saya membangun aplikasi web untuk kebutuhan yang dekat dengan pekerjaan sehari-hari: layanan pemerintahan, sistem sekolah, dashboard operasional, dan alat bantu internal. Saya biasa terlibat sejak memahami alur kerja, merancang antarmuka, membangun backend dan database, hingga menyiapkan deployment.
 
-![Header Animation](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Muhammad%20Rasyid%20Abdulah&fontSize=50&fontColor=ffffff&fontAlign=50)
+Saya menyukai sistem yang jelas, mudah dirawat, dan benar-benar membantu penggunanya—bukan sekadar terlihat baik saat demo.
 
-<br />
+## Yang biasa saya kerjakan
 
-<a href="https://github.com/Hiirooo">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:official.rasyidabdulah@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/6283178781472">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+- Sistem informasi untuk pemerintahan dan pendidikan
+- Dashboard admin, pengelolaan konten, serta pelaporan
+- Integrasi API, otomasi, dan alat bantu operasional
+- Deployment aplikasi, konfigurasi server, dan pemeliharaan layanan
 
-</div>
+## Teknologi yang sering saya gunakan
 
-<br />
+| Area | Teknologi |
+| --- | --- |
+| Backend | PHP, Laravel, Node.js |
+| Frontend | JavaScript, TypeScript, Next.js, React, Tailwind CSS |
+| Data | MySQL, PostgreSQL, Supabase |
+| Infrastruktur | Linux, Docker, Cloudflare, Vercel |
+| Workflow | Git, GitHub, REST API, n8n |
 
----
+Saya tidak terpaku pada satu stack. Pilihan teknologi selalu saya sesuaikan dengan kebutuhan, skala, dan kemampuan tim yang akan melanjutkan sistemnya.
 
-### 👨‍💻 **System Information** (About Me)
+## Beberapa proyek publik
 
-I am a **Full Stack Web Developer** with a unique background in IT Administration. I love building efficient systems with a touch of retro aesthetics.
+- **[SPMB](https://github.com/Hiirooo/spmb)** — aplikasi penerimaan murid baru berbasis Laravel, mencakup pendaftaran, verifikasi dokumen, seleksi, pengumuman, dan panel administrasi.
+- **[SOP Template Online](https://github.com/Hiirooo/SOP-Template-Online)** — alat bantu berbasis web untuk menyusun dan memvisualisasikan alur SOP.
 
-- 🔭 **I’m currently working on**: Government Systems & School Management Apps.
-- 🌱 **I’m currently learning**: Advanced Next.js Patterns & System Architecture.
-- 🎓 **Education**: Final Year Student (Software Engineering).
-- 💼 **Experience**: 6+ Years as IT/Admin Staff in Education Sector.
+Sebagian besar pekerjaan saya dikembangkan untuk kebutuhan internal atau instansi, sehingga tidak seluruh repositorinya tersedia untuk publik.
 
-<br />
+## Sedikit tentang cara saya bekerja
 
----
+Latar belakang saya berada di antara administrasi dan teknologi. Karena itu, saya terbiasa melihat aplikasi bukan hanya dari sisi kode, tetapi juga dari alur kerja, kejelasan informasi, kemudahan penggunaan, dan proses setelah sistem diluncurkan.
 
-### 🚀 **Tech Stack & Arsenal**
+## Kontak
 
-<div align="center">
-
-| Backend & Server | Frontend & UI | Tools & Others |
-| :---: | :---: | :---: |
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![aaPanel](https://img.shields.io/badge/aaPanel-20232A?style=for-the-badge&logo=linux&logoColor=white) |
-| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-
-</div>
-
-<br />
-
-### 📊 **Github Stats**
-
-<div align="center">
-
-<!-- Stats are temporarily hidden due to Service outage -->
-<!-- Once services are back, you can uncomment these lines -->
-<!-- ![Rasyid's Stats](https://github-readme-stats.vercel.app/api?username=Hiirooo&show_icons=true&theme=radical) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiirooo&layout=compact&theme=radical) -->
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=Hiirooo&style=flat-square&color=blue" alt="Profile Views" /> 
-
-</div>
+Untuk diskusi proyek atau kolaborasi, silakan hubungi saya melalui [email](mailto:official.rasyidabdulah@gmail.com).

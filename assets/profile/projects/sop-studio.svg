@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="350" viewBox="0 0 640 350" fill="none" role="img" aria-labelledby="title">
+  <title id="title">SOP Studio — Editor diagram dan dokumen prosedur</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="640" y2="350"><stop stop-color="#0B213A"/><stop offset="1" stop-color="#245A86"/></linearGradient><linearGradient id="accent" x1="42" y1="0" x2="581" y2="0"><stop stop-color="#7EDBFF"/><stop offset="1" stop-color="#F6CC84"/></linearGradient></defs>
+  <rect width="640" height="350" rx="15" fill="url(#bg)"/><rect x=".5" y=".5" width="639" height="349" rx="14.5" stroke="#D7ECFF" stroke-opacity=".16"/>
+  <text x="39" y="51" fill="#BDD8EF" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">PRODUCTIVITY · DOCUMENT ENGINEERING</text>
+  <text x="39" y="103" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="750">SOP STUDIO</text>
+  <text x="41" y="130" fill="#D2E5F5" font-family="Arial, Helvetica, sans-serif" font-size="13">A precise editor for processes and decisions.</text>
+  <rect x="39" y="155" width="561" height="153" rx="12" fill="#F5F9FD" stroke="#CFDEED"/>
+  <path d="M218 155V308M357 155V308M478 155V308M39 191H600M39 244H600" stroke="#C4D3E3"/>
+  <text x="54" y="178" fill="#334D67" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">AKTIVITAS</text><text x="250" y="178" fill="#334D67" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700">PELAKSANA</text>
+  <rect x="251" y="201" width="73" height="25" rx="12.5" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.5"/><text x="274" y="217" fill="#244568" font-family="Arial, Helvetica, sans-serif" font-size="9">Mulai</text>
+  <path d="M323 213H398V250" stroke="#30597D" stroke-width="2"/><path d="M393 247L398 253L403 247" stroke="#30597D" stroke-width="2"/>
+  <path d="M398 258L421 275L398 293L375 275L398 258Z" fill="#FFFFFF" stroke="#D95B60" stroke-width="1.5"/>
+  <path d="M422 275H497" stroke="#30597D" stroke-width="2"/><path d="M491 270L499 275L491 280" stroke="#30597D" stroke-width="2"/>
+  <rect x="510" y="259" width="71" height="29" rx="5" fill="#FFFFFF" stroke="#249467" stroke-width="1.5"/><text x="524" y="277" fill="#244568" font-family="Arial, Helvetica, sans-serif" font-size="9">Selesai</text>
+  <rect x="40" y="322" width="160" height="2" fill="url(#accent)"/>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Rasyid Abdulah — Full-stack Developer dan IT Administrator</title>
+  <desc id="desc">Banner profil profesional dengan nuansa biru navy, ilustrasi dashboard, dan diagram sistem.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081425"/>
+      <stop offset="0.54" stop-color="#0C2340"/>
+      <stop offset="1" stop-color="#123D63"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="70" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#71D8FF"/>
+      <stop offset="0.5" stop-color="#A5B4FC"/>
+      <stop offset="1" stop-color="#F5C77E"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="784" y1="64" x2="1126" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.045"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#DCEAFF" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="glow" x="684" y="-95" width="636" height="562" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="74"/>
+    </filter>
+    <filter id="shadow" x="760" y="45" width="408" height="314" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="13" stdDeviation="18" flood-color="#020B16" flood-opacity="0.42"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="390" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="162" rx="165" ry="124" fill="#3D97D4" fill-opacity="0.21" filter="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="388" rx="17" stroke="#FFFFFF" stroke-opacity="0.13"/>
+  <rect x="58" y="53" width="4" height="282" rx="2" fill="url(#accent)"/>
+
+  <rect x="83" y="58" width="338" height="31" rx="15.5" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.15"/>
+  <circle cx="101" cy="73.5" r="4" fill="#73D4FF"/>
+  <text x="114" y="78" fill="#D8EBFF" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.05">FULL-STACK DEVELOPER  ·  IT ADMINISTRATOR</text>
+
+  <text x="83" y="145" fill="#C7D8EB" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="500" letter-spacing="3.8">MUHAMMAD</text>
+  <text x="79" y="214" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="67" font-weight="750" letter-spacing="-2.2">RASYID ABDULAH</text>
+  <text x="84" y="253" fill="#D8E6F4" font-family="Arial, Helvetica, sans-serif" font-size="17">Membangun sistem yang rapi, relevan, dan siap dipakai.</text>
+
+  <rect x="84" y="279" width="142" height="35" rx="9" fill="#D9F2FF" fill-opacity="0.12" stroke="#A9D8FF" stroke-opacity="0.24"/>
+  <text x="102" y="301" fill="#E7F5FF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">WEB SYSTEMS</text>
+  <rect x="237" y="279" width="132" height="35" rx="9" fill="#D9F2FF" fill-opacity="0.08" stroke="#A9D8FF" stroke-opacity="0.18"/>
+  <text x="255" y="301" fill="#E7F5FF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">UI ENGINEERING</text>
+  <rect x="380" y="279" width="122" height="35" rx="9" fill="#D9F2FF" fill-opacity="0.08" stroke="#A9D8FF" stroke-opacity="0.18"/>
+  <text x="398" y="301" fill="#E7F5FF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">OPERATIONS</text>
+
+  <circle cx="94" cy="341" r="4" fill="#F4C77F"/>
+  <text x="105" y="345" fill="#B9CBDE" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.1">SUMATERA SELATAN, INDONESIA</text>
+
+  <g>
+    <rect x="781" y="76" width="344" height="248" rx="16" fill="url(#panel)" stroke="#FFFFFF" stroke-opacity="0.2"/>
+    <rect x="781" y="76" width="344" height="42" rx="16" fill="#FFFFFF" fill-opacity="0.07"/>
+    <circle cx="802" cy="97" r="4" fill="#F5B6AA"/>
+    <circle cx="816" cy="97" r="4" fill="#F2D89B"/>
+    <circle cx="830" cy="97" r="4" fill="#A4D9BF"/>
+    <rect x="882" y="90" width="147" height="14" rx="7" fill="#FFFFFF" fill-opacity="0.1"/>
+
+    <rect x="803" y="137" width="87" height="69" rx="10" fill="#0B192B" fill-opacity="0.62" stroke="#A9D8FF" stroke-opacity="0.12"/>
+    <text x="815" y="158" fill="#A8BED4" font-family="Arial, Helvetica, sans-serif" font-size="9">SYSTEMS</text>
+    <text x="815" y="184" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">06</text>
+    <rect x="899" y="137" width="87" height="69" rx="10" fill="#0B192B" fill-opacity="0.62" stroke="#A9D8FF" stroke-opacity="0.12"/>
+    <text x="911" y="158" fill="#A8BED4" font-family="Arial, Helvetica, sans-serif" font-size="9">STATUS</text>
+    <circle cx="919" cy="179" r="6" fill="#69DBA4"/>
+    <rect x="937" y="175" width="31" height="8" rx="4" fill="#DDF7EA" fill-opacity="0.75"/>
+    <rect x="995" y="137" width="108" height="69" rx="10" fill="#0B192B" fill-opacity="0.62" stroke="#A9D8FF" stroke-opacity="0.12"/>
+    <text x="1007" y="158" fill="#A8BED4" font-family="Arial, Helvetica, sans-serif" font-size="9">DEPLOYMENT</text>
+    <rect x="1007" y="173" width="76" height="7" rx="3.5" fill="#53738E"/>
+    <rect x="1007" y="173" width="55" height="7" rx="3.5" fill="#71D8FF"/>
+
+    <rect x="804" y="224" width="297" height="76" rx="10" fill="#0B192B" fill-opacity="0.56" stroke="#A9D8FF" stroke-opacity="0.12"/>
+    <path d="M823 279L855 265L884 270L917 244L947 255L978 240L1009 247L1037 235L1081 243" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="917" cy="244" r="4" fill="#7BCFFF"/>
+    <circle cx="1037" cy="235" r="4" fill="#F4C77F"/>
+    <text x="818" y="242" fill="#A8BED4" font-family="Arial, Helvetica, sans-serif" font-size="9">PRODUCT ACTIVITY</text>
+  </g>
+</svg>

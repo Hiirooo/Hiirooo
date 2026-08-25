@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="350" viewBox="0 0 640 350" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Portal Operasional — Sistem administrasi dan pengelolaan pekerjaan</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="640" y2="350"><stop stop-color="#181726"/><stop offset="1" stop-color="#39314A"/></linearGradient><linearGradient id="accent" x1="50" y1="0" x2="584" y2="0"><stop stop-color="#F3C78C"/><stop offset="1" stop-color="#AAB9FF"/></linearGradient></defs>
+  <rect width="640" height="350" rx="15" fill="url(#bg)"/><rect x=".5" y=".5" width="639" height="349" rx="14.5" stroke="#FFFFFF" stroke-opacity=".14"/>
+  <text x="40" y="51" fill="#D8CBDF" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">INTERNAL SYSTEMS · OPERATIONS</text>
+  <text x="39" y="104" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="750">PORTAL PEKERJAAN</text>
+  <text x="41" y="130" fill="#E1D8E6" font-family="Arial, Helvetica, sans-serif" font-size="13">Structured workflows for everyday operations.</text>
+  <rect x="41" y="158" width="555" height="142" rx="11" fill="#10121C" fill-opacity=".76" stroke="#E9DBED" stroke-opacity=".18"/>
+  <rect x="60" y="177" width="158" height="51" rx="7" fill="#292536"/><text x="74" y="196" fill="#B7A9BE" font-family="Arial, Helvetica, sans-serif" font-size="9">AKTIVITAS</text><text x="74" y="216" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Terorganisasi</text>
+  <rect x="231" y="177" width="158" height="51" rx="7" fill="#292536"/><text x="245" y="196" fill="#B7A9BE" font-family="Arial, Helvetica, sans-serif" font-size="9">DOKUMEN</text><text x="245" y="216" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Terlacak</text>
+  <rect x="402" y="177" width="175" height="51" rx="7" fill="#292536"/><text x="416" y="196" fill="#B7A9BE" font-family="Arial, Helvetica, sans-serif" font-size="9">AKSES</text><text x="416" y="216" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Terbatas</text>
+  <rect x="61" y="253" width="498" height="7" rx="3.5" fill="#494454"/><rect x="61" y="253" width="355" height="7" rx="3.5" fill="url(#accent)"/><rect x="61" y="273" width="272" height="6" rx="3" fill="#726D7C"/>
+  <rect x="42" y="322" width="194" height="2" fill="url(#accent)"/>
+</svg>

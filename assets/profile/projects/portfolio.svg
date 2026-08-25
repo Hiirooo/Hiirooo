@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="350" viewBox="0 0 640 350" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Portfolio — Personal digital presence</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="640" y2="350"><stop stop-color="#10162A"/><stop offset="1" stop-color="#263D72"/></linearGradient><linearGradient id="accent" x1="40" y1="0" x2="580" y2="0"><stop stop-color="#8B9FFF"/><stop offset="1" stop-color="#75DAFF"/></linearGradient></defs>
+  <rect width="640" height="350" rx="15" fill="url(#bg)"/><rect x=".5" y=".5" width="639" height="349" rx="14.5" stroke="#FFFFFF" stroke-opacity=".15"/>
+  <circle cx="541" cy="74" r="94" fill="#8194F9" fill-opacity=".11"/><circle cx="585" cy="306" r="109" fill="#66CFFA" fill-opacity=".08"/>
+  <text x="40" y="51" fill="#B7C5E7" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">PERSONAL BRAND · PRODUCT SHOWCASE</text>
+  <text x="37" y="107" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="750" letter-spacing="-1">PORTFOLIO</text>
+  <text x="40" y="133" fill="#D1DCF0" font-family="Arial, Helvetica, sans-serif" font-size="13">A curated home for selected digital work.</text>
+  <rect x="40" y="158" width="139" height="33" rx="8" fill="#FFFFFF" fill-opacity=".1" stroke="#FFFFFF" stroke-opacity=".2"/><text x="58" y="179" fill="#EDF5FF" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700">VISUAL IDENTITY</text>
+  <rect x="289" y="171" width="309" height="147" rx="12" fill="#0C1423" fill-opacity=".7" stroke="#AFC8FF" stroke-opacity=".2"/>
+  <rect x="309" y="190" width="40" height="40" rx="12" fill="url(#accent)"/><text x="320" y="216" fill="#11182C" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">R</text>
+  <rect x="362" y="194" width="122" height="9" rx="4.5" fill="#EDF5FF"/><rect x="362" y="211" width="88" height="7" rx="3.5" fill="#9DB1CD"/>
+  <rect x="309" y="250" width="263" height="8" rx="4" fill="#637994" fill-opacity=".6"/><rect x="309" y="268" width="214" height="8" rx="4" fill="#637994" fill-opacity=".42"/>
+  <rect x="40" y="310" width="185" height="2" fill="url(#accent)"/><text x="40" y="299" fill="#AFC1DF" font-family="Arial, Helvetica, sans-serif" font-size="10">PORTOFOLIO.RASYIDABDULAH.TECH</text>
+</svg>

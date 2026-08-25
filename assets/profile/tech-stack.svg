@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="204" viewBox="0 0 1200 204" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Teknologi yang digunakan: Laravel, PHP, Node.js, Next.js, React, Tailwind CSS, PostgreSQL, MySQL, Supabase, Linux, Docker, dan Cloudflare.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="204"><stop stop-color="#101E31"/><stop offset="1" stop-color="#152D45"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#73D4FF"/><stop offset=".55" stop-color="#A5B4FC"/><stop offset="1" stop-color="#F4C77F"/></linearGradient>
+  </defs>
+  <rect width="1200" height="204" rx="16" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="1199" height="203" rx="15.5" stroke="#CDE7FF" stroke-opacity=".13"/>
+  <rect x="35" y="40" width="1130" height="2" rx="1" fill="url(#line)" opacity=".72"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(36 64)">
+      <text fill="#9CB4CC" font-size="10" font-weight="700" letter-spacing="1.25">BACKEND</text>
+      <circle cx="14" cy="43" r="14" fill="#FF594F"/><text x="9" y="48" fill="white" font-size="13" font-weight="700">L</text>
+      <text x="37" y="48" fill="#F3F7FC" font-size="13" font-weight="700">Laravel</text>
+      <circle cx="14" cy="89" r="14" fill="#7786C4"/><text x="5" y="93" fill="white" font-size="9" font-weight="700">PHP</text>
+      <text x="37" y="94" fill="#DCE8F4" font-size="12">PHP · Node.js</text>
+    </g>
+
+    <path d="M302 70V170" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <g transform="translate(330 64)">
+      <text fill="#9CB4CC" font-size="10" font-weight="700" letter-spacing="1.25">FRONTEND</text>
+      <circle cx="14" cy="43" r="14" fill="#E4EEF8"/><text x="9" y="48" fill="#101E31" font-size="13" font-weight="700">N</text>
+      <text x="37" y="48" fill="#F3F7FC" font-size="13" font-weight="700">Next.js</text>
+      <circle cx="14" cy="89" r="14" fill="#49C8F0"/><text x="9" y="94" fill="#092137" font-size="13" font-weight="700">R</text>
+      <text x="37" y="94" fill="#DCE8F4" font-size="12">React · Tailwind</text>
+    </g>
+
+    <path d="M591 70V170" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <g transform="translate(618 64)">
+      <text fill="#9CB4CC" font-size="10" font-weight="700" letter-spacing="1.25">DATABASE</text>
+      <circle cx="14" cy="43" r="14" fill="#4795D1"/><text x="9" y="48" fill="white" font-size="13" font-weight="700">P</text>
+      <text x="37" y="48" fill="#F3F7FC" font-size="13" font-weight="700">PostgreSQL</text>
+      <circle cx="14" cy="89" r="14" fill="#53CA94"/><text x="9" y="94" fill="#092A1C" font-size="13" font-weight="700">S</text>
+      <text x="37" y="94" fill="#DCE8F4" font-size="12">MySQL · Supabase</text>
+    </g>
+
+    <path d="M894 70V170" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <g transform="translate(919 64)">
+      <text fill="#9CB4CC" font-size="10" font-weight="700" letter-spacing="1.25">INFRASTRUCTURE</text>
+      <circle cx="14" cy="43" r="14" fill="#49A6EB"/><text x="9" y="48" fill="white" font-size="13" font-weight="700">D</text>
+      <text x="37" y="48" fill="#F3F7FC" font-size="13" font-weight="700">Docker</text>
+      <circle cx="14" cy="89" r="14" fill="#F4A347"/><text x="9" y="94" fill="#3A2009" font-size="13" font-weight="700">C</text>
+      <text x="37" y="94" fill="#DCE8F4" font-size="12">Linux · Cloudflare</text>
+    </g>
+  </g>
+</svg>
